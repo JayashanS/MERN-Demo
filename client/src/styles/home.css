@@ -80,7 +80,19 @@
 }
 
 
-
+.content {
+  position: absolute;
+  width: 556px;
+  top: 306px;
+  left: 121px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #176b87ab;
+  text-align: justify;
+  line-height: 24px;
+  font-size: 16px;
+  letter-spacing: 0;
+}
 
 
 
